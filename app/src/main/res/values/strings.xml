@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="next">next</string>
+    <string name="btn_submit">btn_submit</string>
+    <string name="HarisSetiawan">Haris Setiawan</string>
+    <string name="DwiDjoko">Dwi Djoko</string>
+    <string name="ApriliaKurniati">ApriliaKurniati</string>
+    <string name="back_button">backbutton</string>
+</resources>
